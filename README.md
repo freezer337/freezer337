@@ -17,8 +17,8 @@
 ---
 
 ## Моя статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_никнейм&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_никнейм&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freezer337&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freezer337&layout=compact&theme=radical)
 
 ---
 
