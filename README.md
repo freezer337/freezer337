@@ -1,16 +1,19 @@
-## Hi there 👋
+# Здравствуйте, меня зовут Андрей 👋
 
-<!--
-**freezer337/freezer337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+Я специализируюсь на backend разработке и парсинге данных. В своей работе я стремлюсь к высоким стандартам и открыт для новых вызовов и возможностей.
 
-Here are some ideas to get you started:
+## Технический стек
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=sqlite)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)
+...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Моя Активность
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andrey123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey123&layout=compact&theme=radical)
+
+## Свяжитесь со мной
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/ваш_ник)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ваш_email@gmail.com)
